@@ -1,3 +1,3 @@
 # hello-world
 Just a repository
-Hi messgae from David
+Hi message from David
